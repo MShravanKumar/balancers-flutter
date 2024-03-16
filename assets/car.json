@@ -1,0 +1,265 @@
+{
+  "brands": [
+    {
+      "name": "Maruti Suzuki",
+      "models": [
+        "Swift",
+        "Dzire",
+        "Alto K10",
+        "Wagon R",
+        "Ertiga",
+        "Celerio",
+        "Baleno",
+        "Vitara Brezza",
+        "Ignis",
+        "S-Presso",
+        "XL6",
+        "Ciaz",
+        "Jimny",
+        "Fronx",
+        "eVX",
+        "New-gen Swift",
+        "New Dzire",
+        "WagonR Electric",
+        "XL5",
+        "Jimny EV",
+        "YRA",
+        "Cervo"
+      ]
+    },
+    {
+      "name": "Hyundai",
+      "models": [
+        "Eon",
+        "Grand i10",
+        "Xcent",
+        "Elite i20",
+        "i20 Active",
+        "Creta",
+        "Tucson",
+        "Verna",
+        "Venue",
+        "Aura",
+        "Kona Electric",
+        "Alcazar",
+        "New Santa Fe",
+        "Creta N Line",
+        "Ioniq 6",
+        "Palisade",
+        "Stargazer"
+      ]
+    },
+    {
+      "name": "TATA Motors",
+      "models": [
+        "Zest",
+        "Bolt",
+        "Tiago",
+        "Tigor",
+        "Nexon",
+        "Harrier",
+        "Altroz",
+        "Safari",
+        "Punch",
+        "Sierra",
+        "Curvv EV",
+        "Avinya"
+      ]
+    },
+    {
+      "name": "Mahindra",
+      "models": [
+        "Thar",
+        "Scorpio",
+        "XUV700",
+        "XUV300",
+        "Bolero",
+        "XUV400",
+        "Marazzo",
+        "XUV.e8",
+        "XUV.e9",
+        "BE.05",
+        "BE.07",
+        "BE.09"
+      ]
+    },
+    {
+      "name": "Kia",
+      "models": [
+        "Sonet",
+        "Seltos",
+        "Carens",
+        "EV6",
+        "EV9",
+        "Carnival",
+        "Clavis",
+        "EV5"
+      ]
+    },
+    {
+      "name": "Toyota",
+      "models": [
+        "Urban Cruiser Hyryder",
+        "Innova Crysta",
+        "Innova Hycross",
+        "Glanza",
+        "Rumion",
+        "Fortuner",
+        "Land Cruiser",
+        "Fortuner Legender",
+        "Camry",
+        "Hilux",
+        "Vellfire",
+        "Urban Cruiser Taisor",
+        "BZ4X",
+        "Belta"
+      ]
+    },
+    {
+      "name": "Honda",
+      "models": [
+        "Amaze",
+        "Jazz",
+        "WR-V",
+        "City 4th-gen",
+        "City",
+        "Elevate",
+        "Mobilio"
+      ]
+    },
+    {
+      "name": "Renault",
+      "models": ["Kwid", "Triber", "Kiger", "Duster"]
+    },
+    {
+      "name": "Skoda",
+      "models": [
+        "Rapid",
+        "Slavia",
+        "Kushaq",
+        "Octavia",
+        "Superb",
+        "Kodiaq",
+        "Enyaq"
+      ]
+    },
+    {
+      "name": "MG Motors",
+      "models": [
+        "Marvel X",
+        "Gloster 2024",
+        "4 EV",
+        "3",
+        "Euniq 7",
+        "RX5",
+        "Baojun 530",
+        "eHS",
+        "5 EV",
+        "G10"
+      ]
+    },
+    {
+      "name": "Mercedes",
+      "models": [
+        "GLA",
+        "GLS",
+        "C-Class",
+        "GLC",
+        "E-Class",
+        "S-Class",
+        "GLE",
+        "AMG GLE 53",
+        "A-Class Limousine",
+        "GLB",
+        "AMG GLA 35",
+        "Maybach S-Class",
+        "AMG E 53 Cabriolet",
+        "AMG GT 4 Door Coupe",
+        "AMG SL",
+        "AMG A 45 S",
+        "G-Class",
+        "AMG C43"
+      ]
+    },
+    {
+      "name": "FIAT",
+      "models": [
+        "Linea",
+        "Punto",
+        "Avventura",
+        "Siena",
+        "Urban Cross",
+        "Abarth 595",
+        "Millicento",
+        "1100"
+      ]
+    },
+    {
+      "name": "Datsun",
+      "models": ["Go", "Go Plus", "Redi-Go"]
+    },
+    {
+      "name": "Jeep",
+      "models": ["Wrangler", "Compass", "Meridian", "Grand Cherokee"]
+    },
+    {
+      "name": "Audi",
+      "models": ["A4", "Q3", "A6", "e-tron", "Q8", "Q6"]
+    },
+    {
+      "name": "BMW",
+      "models": [
+        "iX1",
+        "iX",
+        "i4",
+        "i7",
+        "X7",
+        "X5",
+        "X3",
+        "X1",
+        "X4",
+        "M2",
+        "Z4",
+        "XM",
+        "M3",
+        "M8",
+        "M4",
+        "7",
+        "6",
+        "3",
+        "2",
+        "Z4"
+      ]
+    },
+    {
+      "name": "Land Rover",
+      "models": [
+        "Range Rover Velar",
+        "Defender",
+        "Range Rover Evoque",
+        "Range Rover",
+        "Discovery"
+      ]
+    },
+    {
+      "name": "Jaguar",
+      "models": ["F-Type", "F-Pace", "I-Pace", "E-Pace"]
+    },
+    {
+      "name": "Volvo",
+      "models": ["EX90", "C30", "C70", "XC30", "S100", "V60"]
+    },
+    {
+      "name": "Lexus",
+      "models": ["ES", "LX", "NX", "LC", "LS", "RX", "LM"]
+    },
+    {
+      "name": "Porsche",
+      "models": ["Macan", "Panamera", "Cayenne", "Taycan"]
+    },
+    {
+      "name": "MINI",
+      "models": ["Cooper", "Countryman", "Cooper SE"]
+    }
+  ]
+}
